@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\bin\Debug\DayNight.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\bin\Debug\DayNight.exe
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\bin\Debug\DayNight.pdb
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.exe
+C:\Users\chris\OneDrive\Desktop\Week 5 Assignments\DayNight\DayNight\obj\Debug\DayNight.pdb
